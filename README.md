@@ -13,7 +13,7 @@ ASP.NET Core Web API + React ile geliştirilmiş fatura yönetim uygulaması.
 - Docker Desktop
 
 ### Çalıştırma
-- start.sh
+- start.sh dosyasına çift tıklayın veya terminal ile çalıştırın.
 
 Uygulama ayağa kalktıktan sonra:
 - **Frontend:** http://localhost:5173
