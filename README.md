@@ -4,7 +4,7 @@ ASP.NET Core Web API + React ile geliştirilmiş fatura yönetim uygulaması.
 
 ## Teknolojiler
 - **Backend:** ASP.NET Core 10, Entity Framework Core, SQL Server
-- **Frontend:** React, Bootstrap 5, React Hook Form
+- **Frontend:** React + Vite, Bootstrap 5, React Hook Form
 - **Veritabanı:** SQL Server 2022
 
 ## Kurulum (Docker ile)
@@ -13,7 +13,10 @@ ASP.NET Core Web API + React ile geliştirilmiş fatura yönetim uygulaması.
 - Docker Desktop
 
 ### Çalıştırma
-- start.sh dosyasına çift tıklayın veya terminal ile çalıştırın.
+- Terminal ile: `docker compose up --build`
+- veya
+- Windows için: `start.bat`
+- Mac için: `start.command`
 
 Uygulama ayağa kalktıktan sonra:
 - **Frontend:** http://localhost:5173
